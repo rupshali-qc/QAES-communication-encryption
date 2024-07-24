@@ -1,1 +1,1 @@
-Qiskit implementation of the encryption engine in the paper 'Designing Hash and Encryption Engines using Quantum Computing'
+Implementation of an elementary quantum AES algorithm that encrypts an image at the sender end and decrypts at the receiver end.
